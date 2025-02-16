@@ -94,8 +94,9 @@
 ## **Output**  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e76face-01ae-45d1-b739-0138522f557f" width="500">
+  <img src="https://github.com/user-attachments/assets/c89c7e0a-9949-4902-9d90-21fb49b206c2" width="500">
 </p>
+
 
 
 
