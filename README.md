@@ -1,10 +1,10 @@
 # AI-CHATBOT-WITH-NLP
 **Name:** Shriraj Dharmadhikari  
-**Company:** CODTECH IT SOLUTIONS 
+**Company:** CODTECH IT SOLUTIONS  
 **ID:** CT08PEP  
 **Domain:** Python Programming  
 **Duration:** 25th Jan to 25th Feb  
-**Mentor:** Neela Santosh 
+**Mentor:** Neela Santosh  
 
 ---
 # **NLP Chatbot Using TF-IDF and Tkinter**  
